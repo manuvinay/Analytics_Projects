@@ -1,6 +1,10 @@
-Dashboard for
+Dashboard for Analysis of Suicide in India
 
 https://public.tableau.com/app/profile/manu.vinay/viz/SuicideinIndiaAnalysis_Dashboard/Dashboard1
 
-
+*State wise analysis
 https://public.tableau.com/app/profile/manu.vinay/viz/Statewisedata_16519250344610/Sheet1
+
+
+Source of Data:
+https://www.kaggle.com/datasets/rajanand/suicides-in-india
